@@ -19,3 +19,6 @@
 var b=2
 console.log(b)
 ```
+我的网站是[Freedy-Gong.com](https://github.com/Freddy-Gong/markdown-test/tree/master)
+
+![图片](1.jpg)
